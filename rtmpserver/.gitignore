@@ -1,0 +1,88 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Next.js build output
+.next/
+out/
+
+# Production build output
+build/
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Mac system files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local environment variables
+.env
+.env.local
+.env.*.local
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# SvelteKit build directory
+/.svelte-kit
+
+# Remix build directory
+/build
+
+# Hugo static site builds
+/public
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage directories used by tools like istanbul
+coverage/
+
+# Miscellaneous
+*.pid
+*.seed
+*.pid.lock
+
+# Project specific
+out/
+lib/
+
+# Prettier
+.prettierignore
+
+# TypeScript
+*.d.ts
+tsconfig.tsbuildinfo
+
+# Jest
+jest.config.js
+__tests__
+__mocks__
